@@ -5,7 +5,9 @@
 
 **V2.0**
 
-服务器名称或地址更新为：be-obf-ovpn.pointtoserver.com
+服务器名称或地址更新为：
+1:be-obf-ovpn.pointtoserver.com
+2:fr-obf-ovpn.pointtoserver.com
 
 **V1.0**
 
