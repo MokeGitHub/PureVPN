@@ -9,6 +9,7 @@
 1:be-obf-ovpn.pointtoserver.com
 2:fr-obf-ovpn.pointtoserver.com
 3:hk-obf-ovpn.pointtoserver.com
+4:nl-obf-ovpn.pointtoserver.com
 **V1.0**
 
 服务器名称或地址：ch-obf-ovpn.pointtoserver.com
